@@ -1,4 +1,5 @@
 # High-Fidelity Generative Video Compression
+### Proof of Concept implementation using [HiFiC](https://hific.github.io/) generative image compression.
 # Installation
 ```bash
 git https://github.com/kavofa/hific_video
